@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# My ignores
+genome-scores.csv
+genome-tags.csv
+links.csv
+movies.csv
+tags.csv
